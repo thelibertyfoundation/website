@@ -7,11 +7,6 @@
     max-width: 28em;
   }
 
-  strong {
-    color: #191919;
-    font-weight: 700;
-  }
-
   a {
     color: $c-blue;
     text-decoration: none;
@@ -20,6 +15,15 @@
       outline: none;
       color: black;
     }
+  }
+
+  strong {
+    color: #191919;
+    font-weight: 700;
+  }
+
+  em {
+    font-style: italic;
   }
 
   > *:last-child {
