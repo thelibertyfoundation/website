@@ -1,0 +1,28 @@
+.text {
+  color: #4C4C4C;
+
+  p {
+    line-height: 1.4;
+    margin-bottom: 1em;
+    max-width: 28em;
+  }
+
+  strong {
+    color: #191919;
+    font-weight: 700;
+  }
+
+  a {
+    color: $c-blue;
+    text-decoration: none;
+    font-weight: 500;
+    &:hover, &:focus {
+      outline: none;
+      color: black;
+    }
+  }
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}
