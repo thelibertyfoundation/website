@@ -3,7 +3,7 @@ layout: default
 title: Liberty Foundation
 ---
 
-**The _Liberty Foundation_ supports artists who work on the internet by giving them the tools they need to grow their practice into an independent, sustainable business.**
+**The _Liberty Foundation_ supports artists who work on the internet by giving them the tools they need to grow their practice into an independent business.**
 
 The foundation will begin by offering a number of fellowship awards, where we'll provide extensive coaching and support to allow artists to focus on their work, and grow it into a sustainable business.
 
