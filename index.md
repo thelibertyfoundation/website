@@ -13,6 +13,6 @@ We will also publish everything we produce, and make it freely available in our 
 
 We will be prioritizing awarding our fellowships to a diverse and representative group of artists, working in contemporary fields such as film, podcasts and audio storytelling, comics, music, video games, and tabletop & board games.
 
-If you're interested in learning more, [follow us on Twitter](https://twitter.com/libertyfndn), or sign up for our [mailing list](#TBA).
+If you're interested in learning more, [follow us on Twitter](https://twitter.com/libertyfndn), or [sign up for our mailing list](http://eepurl.com/cOYW9n).
 
 If you're interested in becoming a benefactor, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
