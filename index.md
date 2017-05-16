@@ -3,11 +3,13 @@ layout: default
 title: Liberty Foundation
 ---
 
-**The _Liberty Foundation_ supports artists who work on the internet by helping them develop their practice into an independent, sustainable business.**
+**The _Liberty Foundation_ supports artists who work on the internet by giving them the tools they need to grow their practice into an independent, sustainable business.**
 
-We will open applications for our first fellowship program later this year. Successful applicants will each receive a $60,000 cost of living grant and comprehensive health insurance for the year.
+The foundation will begin by offering a number of fellowship awards, where we'll provide extensive coaching and support to allow artists to focus on their work, and grow it into a sustainable business.
 
-In addition, successful applicants will receive extensive business development support, specifically geared towards developing an independent business as an artist. Classes authored and taught by industry. Classes, talks, materials will be made freely available online, allowing anyone to self-teach themselves the course.
+Our fellows will receive a $60,000 cost of living grant and support for health insurance costs for a year.
+
+We will also publish everything we produce, and make it freely available in our online library. Our goal is to give as many artists as possible the resources they need to build an independent career.
 
 We will be prioritizing awarding our fellowships to a diverse and representative group of artists, working in contemporary fields such as film, podcasts and audio storytelling, comics, music, video games, and tabletop & board games.
 
