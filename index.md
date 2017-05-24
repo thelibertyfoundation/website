@@ -22,4 +22,3 @@ Applications will open later this year. If you're interested in learning more, [
 If you're interested in becoming a benefactor, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
 
 — Andy McMillan
-@andymcmillan
