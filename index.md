@@ -20,3 +20,6 @@ Our aim is to give as many artists as possible the resources they need to build 
 Applications will open later this year. If you're interested in learning more, [follow us on Twitter](https://twitter.com/libertyfndn), or [sign up for our mailing list](http://eepurl.com/cOYW9n).
 
 If you're interested in becoming a benefactor, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
+
+— Andy McMillan
+@andymcmillan
