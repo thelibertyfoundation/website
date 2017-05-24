@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Liberty Foundation
 email: andy@theliberty.foundation
-description: The Liberty Foundation supports artists who work on the internet by helping them develop their practice into an independent, sustainable business.
+description: The Liberty Foundation supports artists who work on the internet by giving them the tools they need to grow their practice into an independent business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://theliberty.foundation"
 twitter_username: libertyfndn
