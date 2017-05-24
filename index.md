@@ -9,8 +9,8 @@ This project aims to break that cycle.
 
 **The _Liberty Foundation_ supports artists who work on the internet by giving them the tools they need to grow their practice into an independent business.**
 
-The Foundation will begin by offering a number of fellowship awards. Under the guidance of our advisory board, we will be prioritizing awarding our fellowships to a diverse and representative group of artists working in contemporary fields such as film, podcasts and audio storytelling, comics, tabletop and board games, music, and video games. 
- 
+The Foundation will begin by offering a number of fellowship awards. Under the guidance of our advisory board, we will be prioritizing awarding our fellowships to a diverse and representative group of artists working in contemporary fields such as film, music, podcasts and audio storytelling, writing, comics, tabletop and board games, and video games. 
+
 Our fellows will each receive a $60,000 cost of living grant and support for health insurance costs for one year. These grants will not be project-based, but rather aimed at giving creators a chance to step back and make decisions based on curiosity and long-term growth rather than dire and immediate need. 
  
 The second aspect of the Foundation supports this goal by providing an extensive coaching and support program to help artists maintain momentum, focus on their work, and grow it into a sustainable business. This will involve workshops and tutorials focused on business development, marketing, financial planning, and legal support.
