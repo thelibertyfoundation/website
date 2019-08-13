@@ -3,7 +3,7 @@ layout: default
 title: Liberty Foundation
 ---
 
-Through my time testing organizing XOXO and Build I've been lucky enough to meet countless exceptionally talented and hard-working independent creators in many different fields. However, a lot of these artists are struggling with the same problem. Many are unable to break the cycle of burying their own goals below part-time or full-time work, living project to project without the benefit of breathing room to assess and develop their careers.
+Through my time organizing XOXO and Build I've been lucky enough to meet countless exceptionally talented and hard-working independent creators in many different fields. However, a lot of these artists are struggling with the same problem. Many are unable to break the cycle of burying their own goals below part-time or full-time work, living project to project without the benefit of breathing room to assess and develop their careers.
  
 This project aims to break that cycle.
 
