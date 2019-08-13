@@ -3,7 +3,7 @@ layout: default
 title: Liberty Foundation
 ---
 
-**Update: as of April 2019, The Liberty Foundation is no longer active. Unfortunately we failed to secure enough funding to launch our pilot grant scheme. For future updates, [please follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
+**Update: as of April 2019, The Liberty Foundation is no longer active. Unfortunately we weren't able to secure enough funding to launch our pilot cost of living grant program. For future updates, [please follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
 
 Through my time organizing XOXO and Build I've been lucky enough to meet countless exceptionally talented and hard-working independent creators in many different fields. However, a lot of these artists are struggling with the same problem. Many are unable to break the cycle of burying their own goals below part-time or full-time work, living project to project without the benefit of breathing room to assess and develop their careers.
  
