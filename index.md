@@ -3,9 +3,9 @@ layout: default
 title: Liberty Foundation
 ---
 
-**Update: The Liberty Foundation is unfortunately no longer active. After the results of the 2016 election and the subsequent shift in priorities with corporate philanthropy _(thanks asshole!)_, we we unable to secure enough funding to launch our cost of living grant pilot. 
+**Update: The Liberty Foundation is unfortunately no longer active. After the results of the 2016 election and the subsequent shift in priorities with corporate philanthropy _(thanks asshole!)_, we we unable to secure enough funding to launch our cost of living grant pilot.**
 
-For future updates, [follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
+**For future updates, [follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
 
 —
 
