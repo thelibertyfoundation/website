@@ -3,7 +3,9 @@ layout: default
 title: Liberty Foundation
 ---
 
-**Update: The Liberty Foundation is unfortunately no longer active. After the results of the 2016 election _(thanks asshole!)_ and the resulting shift in priorities with corporate philanthropy, we we unable to secure enough funding to launch our pilot cost of living grant. For future updates, [please follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
+**Update: The Liberty Foundation is unfortunately no longer active. After the results of the 2016 election _(thanks asshole!)_ and the resulting shift in priorities with corporate philanthropy, we we unable to secure enough funding to launch our cost of living grant pilot. For future updates, [follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
+
+—
 
 Through my time organizing XOXO and Build, I've been lucky enough to meet countless exceptionally talented and hard-working independent artists and creators working in many different fields. However, a lot of these folks are struggling with the same problem: Many are unable to break the cycle of burying their own creative work below part-time or full-time jobs or other, living project to project without the benefit of breathing room to assess and develop their creative careers.
  
@@ -24,3 +26,4 @@ Applications will open later this year. If you're interested in learning more, [
 Thanks to [MailChimp](http://mailchimp.com), [Intercom](http://intercom.com), and our private benefactors for their support. If you'd like to help, or you're interested in becoming a benefactor, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
 
 — **Andy McMillan**
+January 1, 2020
