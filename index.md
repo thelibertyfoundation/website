@@ -3,7 +3,7 @@ layout: default
 title: Liberty Foundation
 ---
 
-**Update: The Liberty Foundation is unfortunately no longer active. After the results of the 2016 election _(thanks asshole!)_ and the resulting shift in priorities with corporate philanthropy, we we unable to secure enough funding to launch our cost of living grant pilot. For future updates, [follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
+**Update: The Liberty Foundation is unfortunately no longer active. After the results of the 2016 election and the subsequent shift in priorities with corporate philanthropy _(thanks asshole!)_, we we unable to secure enough funding to launch our cost of living grant pilot. For future updates, [follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
 
 —
 
@@ -25,5 +25,4 @@ Applications will open later this year. If you're interested in learning more, [
 
 Thanks to [MailChimp](http://mailchimp.com), [Intercom](http://intercom.com), and our private benefactors for their support. If you'd like to help, or you're interested in becoming a benefactor, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
 
-— **Andy McMillan**
-January 1, 2020
+— **Andy McMillan** · May 23, 2017
