@@ -3,7 +3,7 @@ layout: default
 title: Liberty Foundation
 ---
 
-# Update: The Liberty Foundation has been wound down and is no longer actively fundraising. After the results of the 2016 election and the subsequent shift in corporate philanthropy, we were unable to secure enough funding to launch our initial Fellowship awards. Maybe we'll try again when the world is less awful!
+**Update: The Liberty Foundation has been wound down and is no longer actively fundraising. After the results of the 2016 election and the subsequent shift in corporate philanthropy, we were unable to secure enough funding to launch our initial Fellowship awards. Maybe we'll try again when the world is less awful!**
 
 —
 
