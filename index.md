@@ -17,12 +17,12 @@ The foundation will begin by offering a small number of Fellowship awards. Under
 
 Our fellows will each receive a $60,000 cost-of-living grant, paid out monthly, and direct support for health insurance costs for one year. These grants will not be tied to a single project or specific deliverables, but rather aimed at giving creators a chance to step back and make decisions based on curiosity and sustainability rather than dire and immediate financial need.
 
-The second aspect of the foundation supports this goal by providing access to our coaching and mentorship program, designed to help our fellows build and maintain momentum, and develop it all into a sustainable, independent business with the support of people who have already figured out how. This will involve workshops and short online courses, an annual creative retreat, and participation in an active and extensive mentorship network.
+The second aspect of the foundation supports this goal by providing access to our coaching and mentorship program, designed to help our fellows develop sustainable, independent businesses with direct support from individuals and organizations who have already figured out how. This will involve workshops and short online courses, an annual creative retreat, and participation in an active and extensive mentorship network.
 
-Our aim is to give as many creators as possible the resources they need to build a realistic career. With that in mind, we will also publish everything we produce for our fellows in a freely accessible online library for other creators to benefit from. Our ultimate goal is to remove as many barriers as possible for any artist who could be making a living from their creative work.
+Our aim is to give as many artists and creators as possible the resources they need to build a realistic career. With that in mind, we will also publish everything we produce for our fellows in a freely accessible online library for other creators to use and benefit from. Our ultimate goal is to remove as many barriers as possible for anyone who could be making a living from their creative work if they just had a chance to figure out how.
 
 Applications will open later this year. If you're interested in learning more, [follow us on Twitter](https://twitter.com/libertyfndn), or [sign up for our mailing list](http://eepurl.com/cOYW9n).
 
-Thanks to our friends at [MailChimp](http://mailchimp.com) and our private benefactors for their support. If you'd like to help, or you're interested in making a financial contribution, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
+Thanks to our friends at [MailChimp](http://mailchimp.com) and our private benefactors for their support. If you'd like to help, or you're interested in becoming a benefactor, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
 
 — **Andy McMillan**
