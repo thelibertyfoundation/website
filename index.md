@@ -7,7 +7,9 @@ title: Liberty Foundation
 
 —
 
-Through my time working on [XOXO]([XOXO](https://xoxofest.com)) and [Build]([Build](https://buildconf.com)), I've been lucky enough to meet a wealth of exceptionally talented independent artists and creators working across many different creative fields. However, I see a lot of these folks struggling with the same problem: many are unable to break the cycle of having to burying their own passions and interests beneath distracting part-time or full-time obligations, living paycheck to paycheck without the necessary time and breathing room to develop sustainable businesses around their creative practice.
+Through my time working on [XOXO]([XOXO](https://xoxofest.com)) and [Build]([Build](https://buildconf.com)), I've been lucky enough to meet a wealth of exceptionally talented independent artists and creators working across many different creative fields. 
+
+However, I see a lot of these folks struggling with the same problem: many are unable to break the cycle of having to burying their own passions and interests beneath distracting part-time or full-time obligations, living paycheck to paycheck without the necessary time and breathing room to develop sustainable businesses around their creative practice.
 
 **The _Liberty Foundation_ aims to break that cycle, by directly supporting artists and creators working on the internet and giving them the financial resources and support they need to develop their creative practices into sustainable, independent businesses.**
 
