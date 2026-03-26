@@ -9,7 +9,7 @@ title: Liberty Foundation
 
 Through my time working on XOXO and Build, I've been lucky enough to meet many exceptionally talented individuals working across a wide range of creative fields.
 
-However, I see a lot of these folks struggling with the same problem: many are unable to break the cycle of having to bury their own passions and interests beneath distracting part-time or full-time obligations, living paycheck to paycheck without the necessary time and breathing room to develop sustainable businesses around their creative work.
+However, I see a lot of these folks struggling with the same problem: many are unable to break from the cycle of burying their passions beneath part-time or full-time obligations, living paycheck to paycheck without the necessary time and breathing room to develop sustainable businesses around their creative work.
 
 **The Liberty Foundation aims to break that cycle by directly supporting independent artists and creators and giving them the resources they need to develop their creative practice into a sustainable business.**
 
