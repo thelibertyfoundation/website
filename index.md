@@ -3,8 +3,6 @@ layout: default
 title: Liberty Foundation
 ---
 
-**Testing to see if this compiles OK after deploying, hi!!**
-
 **Update: The Liberty Foundation has been wound down and is no longer actively fundraising. After the results of the 2016 election and the subsequent shift in corporate philanthropy, we were unable to secure enough funding to launch our initial Fellowship awards. Maybe we'll try again when the world is less awful!**
 
 —
@@ -13,7 +11,7 @@ Through my time working on XOXO and Build, I've been lucky enough to meet many e
 
 However, I see a lot of these folks struggling with the same problem: many are unable to break the cycle of having to bury their own passions and interests beneath distracting part-time or full-time obligations, living paycheck to paycheck without the necessary time and breathing room to develop sustainable businesses around their creative work.
 
-**The Liberty Foundation aims to break that cycle by directly supporting individual artists and creators and giving them the resources they need to develop their creative practices into sustainable, independent businesses.**
+**The Liberty Foundation aims to break that cycle by directly supporting independent artists and creators and giving them the resources they need to develop their creative practice into a sustainable business.**
 
 The foundation will begin by offering a small number of Fellowship awards. Under the guidance of our advisory board, we will prioritize awarding fellowships to a diverse and representative group working in contemporary fields including film, music, podcasts and audio storytelling, journalism, comics, tabletop and board games, and indie video games.
 
