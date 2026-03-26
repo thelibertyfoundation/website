@@ -23,6 +23,6 @@ Our aim is to give as many creators as possible the resources they need to build
 
 Applications will open later this year. If you're interested in learning more, [follow us on Twitter](https://twitter.com/libertyfndn), or [sign up for our mailing list](http://eepurl.com/cOYW9n).
 
-Thanks to our friends at [MailChimp](http://mailchimp.com) and our private benefactors for their support. If you'd like to help, or you're interested in becoming a benefactor, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
+Thanks to our friends at [MailChimp](http://mailchimp.com) and our private benefactors for their support. If you'd like to help, or you're interested in making a financial contribution, email [andy@theliberty.foundation](mailto:andy@theliberty.foundation).
 
 — **Andy McMillan**
