@@ -3,9 +3,7 @@ layout: default
 title: Liberty Foundation
 ---
 
-**Update: The Liberty Foundation is no longer active. After the results of the 2016 election and the subsequent shift in priorities with corporate philanthropy, we were unable to secure enough funding to launch our cost of living grant pilot.**
-
-**For future updates, [follow @libertyfndn on Twitter](https://twitter.com/libertyfndn).**
+**Update: The Liberty Foundation has been wound down and is no longer actively fundraising. After the results of the 2016 election and the subsequent shift in corporate philanthropy, we were unable to secure enough funding to launch our initial Fellowship grants. Sorry!**
 
 —
 
@@ -15,7 +13,7 @@ This project aims to break that cycle.
 
 **The _Liberty Foundation_ supports artists who work on the internet by giving them the tools they need to grow their practice into an independent business.**
 
-The Foundation will begin by offering a number of fellowship awards. Under the guidance of our advisory board, we will be prioritizing awarding our fellowships to a diverse and representative group of artists working in contemporary fields such as film, music, podcasts and audio storytelling, writing, comics, tabletop and board games, and video games. 
+The Foundation will begin by offering a number of Fellowship awards. Under the guidance of our advisory board, we will be prioritizing awarding our fellowships to a diverse and representative group of artists working in contemporary fields such as film, music, podcasts and audio storytelling, writing, comics, tabletop and board games, and video games. 
 
 Our fellows will each receive a $60,000 cost of living grant and support for health insurance costs for one year. These grants will not be project-based, but rather aimed at giving creators a chance to step back and make decisions based on curiosity and long-term growth rather than dire and immediate need. 
  
